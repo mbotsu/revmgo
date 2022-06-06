@@ -1,6 +1,6 @@
 package controllers
 
-import "github.com/jgraham909/revmgo"
+import "github.com/mbotsu/revmgo"
 
 func init() {
 	revmgo.ControllerInit()
